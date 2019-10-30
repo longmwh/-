@@ -1,0 +1,6 @@
+查看  docker ps -all
+docker start mysql_5.7
+docker start redis_4.0
+
+docker cp  源路径  目标路径(将源路径的资源拷贝到目标路径)
+
